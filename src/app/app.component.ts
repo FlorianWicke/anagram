@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'anagram';
+
 }
+
+let Word1 = "tea"
+let Word2 = "eat"
+
+console.log(Word1)
